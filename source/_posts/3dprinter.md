@@ -1,8 +1,8 @@
----
+
 title: 3dprinter
 date: 2018-06-22 23:15:52
 tags: [3Dprinter, ALUNAR, M508, Cura]
----
+
 # 3DPrinterの設定について
 
 ## はじめ(目的)
@@ -14,7 +14,7 @@ tags: [3Dprinter, ALUNAR, M508, Cura]
 
 ### 2. 3DPrinterについての雑談
 
----
+
 
 ## まず、Curaとはなにか
 (CURA 15.04.6: https://ultimaker.com/en/products/ultimaker-cura-software/list)
@@ -35,7 +35,7 @@ tags: [3Dprinter, ALUNAR, M508, Cura]
 ![](2018-06-23-14-44-34.png)  
 印刷速度、精度、温度など
 
----
+
 
 ## Alunar M508(精密造形が目的)
 
@@ -44,13 +44,14 @@ tags: [3Dprinter, ALUNAR, M508, Cura]
 ![](2018-06-23-14-30-51.png)  
 ALUNAR-M508: http://amzn.asia/avTmjQN
 
-### 2. Cura設定
+### 2. Cura設定  
+[M508－PLA.ini](M508－PLA.ini)
 
 ![](2018-06-23-16-54-29.png)
 
 ![](2018-06-23-17-02-20.png)
 
----
+
 
 ## SmartRapCore ALU(快速成形が目的)
 
@@ -64,7 +65,8 @@ Smartrapcore ALU
 * フィラメントホルダー: https://www.thingiverse.com/thing:2537713
 * フィラメントホルダー: https://www.thingiverse.com/thing:2600605    
 
-### 2. Cura設定
+### 2. Cura設定  
+[SmartCoreXY-Mini.ini](SmartCoreXY-Mini.ini)
 
 ![](2018-06-23-17-01-16.png)
 
@@ -77,7 +79,6 @@ Smartrapcore ALU
 
 ![](2018-06-23-17-05-47.png)
 
----
 
 ## 3DPrinterについての雑談: 3DP with Me
 
@@ -112,7 +113,6 @@ Smartrapcore ALU
 
 詳しい説明はこちら: https://youtu.be/hqeGh-e6X3U
 
----
 
 ## これから
 
