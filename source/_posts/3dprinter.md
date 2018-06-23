@@ -1,7 +1,8 @@
-
+---
 title: 3dprinter
 date: 2018-06-22 23:15:52
 tags: [3Dprinter, ALUNAR, M508, Cura]
+---
 
 # 3DPrinterの設定について
 
